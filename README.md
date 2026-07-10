@@ -1,9 +1,10 @@
+## FOR GETTING LAST VERSION OF DATADOME SOLVER DM ME [@yallc](https://t.me/yallc)
+
 # DataDome V5.7.0 Solver
 
 A Go library and CLI tool for generating DataDome browser fingerprints and obtaining valid cookies. Uses Chrome TLS fingerprinting via [uTLS](https://github.com/refraction-networking/utls) to bypass TLS-based bot detection.
 
-**Author:** [@L0ed0_backup](https://t.me/L0ed0_backup)
-**Channel:** [@dorker_t00ls](https://t.me/dorker_t00ls)
+**Author:** [yallc](https://t.me/yallc)
 
 ---
 
